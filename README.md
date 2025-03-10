@@ -16,7 +16,7 @@ Error handling for missing files or incorrect formats.
 
 Clone the repository:
 
-git clone https://github.com/vishaljain147/image-colorization.git
+git clone https://github.com/vishaljain147/Imagecolorization.git
 
 cd your-repo
 
